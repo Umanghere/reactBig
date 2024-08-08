@@ -1,2 +1,2 @@
 Readme file
-thsi is ReadME fil
+This is ReadMe file 
